@@ -1,4 +1,4 @@
-This is a list of projects I have worked on:
+This is a list of portfolio projects I have worked on:
 
 | Serial Number |  Name of Project  | Type of Dataset | Category of Problem    |             Status          |
 |:-------------------:|:----------------------:|:------------------:|:------------:|:---------------------------:|
